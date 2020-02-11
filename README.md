@@ -1,6 +1,6 @@
 # which-editorconfig-config-file
 
-Finds [EditorConfig](https://editorconfig.org/) config file ( `.editorconfig` ) by accending directories until root file (has `root=true` ) was found or reached root directory.
+Finds [EditorConfig](https://editorconfig.org/) config file ( `.editorconfig` ) by ascending directories until root file (has `root=true` ) was found or reached root directory.
 
 ## Option
 
